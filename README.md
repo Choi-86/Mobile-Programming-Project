@@ -37,8 +37,8 @@ SharedPreferences를 활용해 앱을 종료해도 데이터가 유지되어, �
 - UI 일관성 유지(Blue 기반 디자인 시스템)
 
 ## Technologies used
-  Java – 앱 기능 구현 
-  XML – UI 레이아웃 구성 
-  Android Studio – 개발 환경
-  SharedPreferences – 로컬 데이터 저장
-  Android UI Components – Spinner, ListView, Button, CheckBox, Dialog 등
+   - Java – 앱 기능 구현 
+   - XML – UI 레이아웃 구성 
+  - Android Studio – 개발 환경
+  - SharedPreferences – 로컬 데이터 저장
+  - Android UI Components – Spinner, ListView, Button, CheckBox, Dialog 등
